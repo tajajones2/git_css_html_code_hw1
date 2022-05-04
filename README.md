@@ -1,14 +1,8 @@
 <HTML, CSS, and Git: Code Refactor>
 
 ## Description
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+This challenge was to code refactor the existing HTML to semantic elements, put alt attributes and consolidate CSS.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Table of Contents (Optional)
 
