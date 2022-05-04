@@ -120,13 +120,13 @@ p {
     text-align: center;
 } */
 
-.benefit-lead img {
+.benefit-lead img, .benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -136,7 +136,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 .search-engine-optimization {
     margin-bottom: 20px;
