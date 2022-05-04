@@ -1,4 +1,4 @@
-<HTML, CSS, and Git: Code Refactor>
+## HTML, CSS, and Git: Code Refactor
 
 ## Description
 This challenge was to code refactor the existing HTML to semantic elements, put alt attributes and consolidate CSS.
@@ -29,16 +29,11 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I credit myself, Taja Jones,  to modify the semantic, consolidate CSS and add in ALT attributes for accessibility.
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 
 ---
